@@ -27,5 +27,6 @@
 
 # Assumptions and Limitations
 
-Assumptions: The token used for authentication is static and simple for simplicity. In a production environment, we can use something like JWT.
-Limitations: The current database is a single SQLite file; for more scalability, we can use a more robust database like PostgreSQL or MySQL.
+1.Assumptions: The token used for authentication is static and simple for simplicity. In a production environment, we can use something like JWT.
+
+2.Limitations: The current database is a single SQLite file; for more scalability, we can use a more robust database like PostgreSQL or MySQL.
